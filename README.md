@@ -5,7 +5,7 @@
 ### A passionate software Developer
 
 - 🌇 From Kyiv, Ukraine
-- 💻 3 Years Experience in Front-end Development
+- 💻 3 Years Experience in Front-end Development and Back-end Development
 
 ### 🤝 Connect with me:
 
