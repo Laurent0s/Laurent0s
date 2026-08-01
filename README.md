@@ -41,5 +41,5 @@
 <img alt="vs code"  src="https://img.shields.io/badge/vs code-0a84ff.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff&logoWidth=20&labelColor=4493f8"  />
 
 [linkedin]: https://www.linkedin.com/in/dmytriy-nikitin/
-[telegram]: https://t.me/peter_londone
-[email]: mailto:dmitrii.oleksandrovich.nikitin@gmail.com
+[telegram]: https://t.me/dmytro_laurentos
+[email]: mailto:d.nikitin.j@gmail.com
